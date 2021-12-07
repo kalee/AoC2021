@@ -114,8 +114,8 @@ sub part2 {
 
 sub load_data {
   ##### Load Data #####
-  #my $filename = '../data/test-6.txt';
-  my $filename = '../data/google-6.txt';
+  my $filename = '../data/test-6.txt';
+  #my $filename = '../data/google-6.txt';
   #my $filename = '../data/reddit-6.txt';
   
   my $content;
